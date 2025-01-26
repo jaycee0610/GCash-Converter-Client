@@ -4,7 +4,7 @@
 ![Logo](https://github.com/jaycee0610/GCash-Converter-Client/blob/main/img.png?raw=true)
 
 GCash Loan-to-Cash Converter System Integrated with Xendit's Custom Server (NewOne Payments v1.0)
-
+[Sample Website (rootscratch.com/walkin-store)](rootscratch.com/walkin-store)
 
 ## server-config.php
 
